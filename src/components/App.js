@@ -1,4 +1,4 @@
-import { act, useEffect, useReducer } from "react";
+import {  useEffect, useReducer } from "react";
 import Header from "./Header";
 import Main from "./main";
 import Loader from "./Loader";
